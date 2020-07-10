@@ -1,1 +1,1 @@
-![Research interests](researchInterests.gif)
+![Research interests](research.gif)
