@@ -1,1 +1,1 @@
-![Research interests](research.gif)
+![Research interests](https://github.com/chauff/chauff/research.gif)
