@@ -1,1 +1,1 @@
-![Research interests](https://github.com/chauff/chauff/research.gif)
+![Research interests](https://github.com/chauff/chauff/blob/master/research.gif)
